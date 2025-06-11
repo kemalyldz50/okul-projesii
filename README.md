@@ -20,7 +20,7 @@ Bu proje, Java Spring Boot kullanılarak geliştirilmiş basit bir Okul Yönetim
 
 ## Başlatma
 
-```bash
+bash
 ./mvnw spring-boot:run
 Endpointler
 GET /students → Öğrenci listesi
@@ -36,17 +36,3 @@ Railway kullanılarak yayına alınmıştır.
 
 Geliştirici: kemalyldz50
 
-yaml
-Kopyala
-Düzenle
-
----
-
-### ✅ 2. README.md'yi GitHub’a Gönder
-
-Terminale şunları yaz:
-
-```bash
-git add README.md
-git commit -m "README eklendi"
-git push
